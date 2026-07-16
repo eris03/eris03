@@ -1,80 +1,58 @@
 <h1 align="center">Hi, I'm Khushi Yadav 👋</h1>
-<h3 align="center">Aspiring Data Scientist · Machine Learning & AI Enthusiast · Python Developer</h3>
 
 <p align="center">
-I turn raw data into actionable insights — building ML models, recommendation systems, NLP apps, and data-driven dashboards.
+  <b>Applied AI + Data Science developer</b> — I build agentic RAG systems and full-stack web apps, end-to-end.
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 💡 What I bring
 
-- 🎯 Focused on **Data Science, Machine Learning, and Analytics** roles
-- 🐍 I build with **Python** — Pandas, NumPy, scikit-learn, Streamlit — and modern web/app stacks
-- 📊 Comfortable across **EDA, RFM customer segmentation, recommendation engines, time-series forecasting, and NLP**
-- 🌱 Currently deepening my skills in **ML engineering and generative AI**
-- 📫 Reach me at **khushi392004yadav@gmail.com**
+- **End-to-end delivery** — I ship complete, working products, from data pipeline to deployed UI, not tutorials.
+- **Applied AI/ML** — agentic pipelines, RAG (retrieval-augmented generation), and practical ML/EDA in Python.
+- **Full-stack ability** — modern web apps with real auth, payments, and database integrations.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Data Science & ML**
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Web & App**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | What it does | Tech |
-|---------|--------------|------|
-| [🛒 E-Commerce Sales Analysis](https://github.com/eris03/ecommerce-sales-analysis) | RFM customer segmentation, revenue trends & customer insights on 2023–2024 sales data | Python, Pandas, Matplotlib, Seaborn |
-| [📊 Sales Analytics Dashboard](https://github.com/eris03/sales-analytics-dashboard) | Interactive Streamlit + Plotly dashboard with KPIs, filters, and pricing insights over 6,000 orders | Streamlit, Plotly, Pandas |
-| [🎬 Movie Recommendation System](https://github.com/eris03/movie-recommendation-system) | Content-based recommender using cosine similarity over movie features | Python, scikit-learn |
-| [🤖 AI Support Agent](https://github.com/eris03/ai-support-agent) | Customer-support chatbot with hybrid semantic + keyword search, confidence scoring & auto-escalation | Streamlit, Sentence Transformers, BM25 |
-| [🏗️ BMI Housing Website](https://github.com/eris03/rk-developers-website) | Luxury landing page with cinematic zoom-scroll & procedural 3D site plan | Next.js 14, Tailwind, Three.js, Framer Motion |
-| [📄 BMI Application Form App](https://github.com/eris03/bmi-housing-application) | Offline PDF form-filler that generates official society forms in-browser | JavaScript, pdf-lib |
+**[WaiverPro — Documentation Compliance Agent](https://github.com/eris03/waiverpro)**
+A four-stage agentic pipeline that parses PDFs, crawls authenticated web sources, compares them with RAG, and auto-generates HTML compliance reports.
+→ *Proves: agentic AI, RAG, and end-to-end automation.*
+
+**[Crazy Vibez Travel](https://github.com/eris03/crazy-vibez-travel)**
+A full-stack travel-booking web app with real authentication, payments, and media handling.
+→ *Proves: full-stack delivery with production integrations.*
+
+**[LLM Chatbot](https://github.com/eris03/llm-chatbot)**
+A hosted chatbot app backed by a separate Python API service.
+→ *Proves: applied LLM work and clean frontend/backend separation.*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eris03&show_icons=true&theme=tokyonight&hide_border=true" alt="Khushi's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eris03&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eris03&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eris03&show_icons=true&theme=tokyonight&hide_border=true" alt="Khushi's GitHub stats" />
 </p>
 
 ---
 
-<p align="center"><i>Open to Data Science, Machine Learning, AI, and Data Analyst opportunities.</i></p>
+### 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)
+- **Email:** khushi392004yadav@gmail.com
+
+<p align="center"><i>Open to Data Science, ML/AI, and Software Engineering roles.</i></p>
