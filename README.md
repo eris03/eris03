@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khushi Yadav 👋</h1>
+<h1 align="center">Hi, I'm Khushi Yadav h1>
 <h3 align="center">Aspiring Data Scientist · Machine Learning & AI Enthusiast · Python Developer</h3>
 
 <p align="center">
@@ -7,13 +7,13 @@ I turn raw data into actionable insights — building ML models, recommendation 
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
-- 🎯 Focused on **Data Science, Machine Learning, and Analytics** roles
-- 🐍 I build with **Python** — Pandas, NumPy, scikit-learn, Streamlit — and modern web/app stacks
-- 📊 Comfortable across **EDA, RFM customer segmentation, recommendation engines, time-series forecasting, and NLP**
-- 🌱 Currently deepening my skills in **ML engineering and generative AI**
-- 📫 Reach me at **khushi392004yadav@gmail.com**
+-  Focused on **Data Science, Machine Learning, and Analytics** roles
+-  I build with **Python** — Pandas, NumPy, scikit-learn, Streamlit — and modern web/app stacks
+-  Comfortable across **EDA, RFM customer segmentation, recommendation engines, time-series forecasting, and NLP**
+-  Currently deepening my skills in **ML engineering and generative AI**
+-  Reach me at **khushi392004yadav@gmail.com**
 
 ---
 
