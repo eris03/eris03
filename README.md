@@ -46,9 +46,14 @@
 Python (FastAPI) backend on an LLM API with a React/JS frontend — deployed live and prompt-tuned to ~90% accuracy on real user queries.
 → *Applied LLM, prompt engineering, frontend/backend delivery.*
 
-**[ Movie Recommendation System](https://github.com/eris03/movie-recommendation-system)**
-Content-based recommender (Python, scikit-learn, NLP) tuned on cleaned features until the suggestions felt genuinely relevant.
-→ *Machine learning & NLP.*
+**[RAG Q&A Demo](https://github.com/eris03/rag-qa-demo)**
+Retrieval-augmented Q&A system (FastAPI, sentence-transformers, FAISS, React) that answers questions with cited sources — free to run with no API key. → *RAG, vector search, LLM integration.*
+
+**[AI Support Agent](https://github.com/eris03/ai-support-agent)**
+AI customer-support chatbot with hybrid semantic + keyword (BM25) search, confidence scoring, sentiment analysis and auto-escalation. → *Applied NLP & conversational AI.*
+
+**[LLM Guardrails](https://github.com/eris03/llm-guardrails)**
+Lightweight prompt injection detection and output guardrails for LLM apps. → *LLM safety & security.*
 
 **[ Sales Analytics Dashboard](https://github.com/eris03/sales-analytics-dashboard)**
 Interactive BI dashboard with live KPIs, filters, and trend analysis over 6,000 orders (Streamlit + Plotly).
