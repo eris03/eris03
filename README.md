@@ -77,5 +77,6 @@ Field attendance app with GPS, selfie punch-in, and an admin dashboard — live 
 
 - **LinkedIn:** [linkedin.com/in/khudav03](https://linkedin.com/in/khudav03)
 - **Email:** khushi392004yadav@gmail.com
+- **Portfolio:** [eris03.github.io/khushi-portfolio](https://eris03.github.io/khushi-portfolio/)
 
 <p align="center"><i>CSE (AI & ML) graduate · open to AI Developer, Data Analyst, and ML roles · available for immediate joining.</i></p>
